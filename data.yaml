@@ -1,0 +1,6 @@
+
+train: C:\Users\Devashish Uniyal\OneDrive\Desktop\IBM Internship\preprocessed_images
+val: C:\Users\Devashish Uniyal\OneDrive\Desktop\IBM Internship\preprocessed_images
+
+nc: 5  # number of classes, adjust as needed
+names: ['car', 'truck', 'person', 'bicycle', 'traffic light']  # replace with your class names
